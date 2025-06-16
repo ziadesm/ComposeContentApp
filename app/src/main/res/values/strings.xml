@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Content App</string>
+    <string name="main_screen_title">Home</string>
+    <string name="search_screen_title">Search</string>
+    <string name="search_hint">Search content...</string>
+    <string name="loading">Loading...</string>
+    <string name="error_network">Network error occurred</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="no_results">No results found</string>
+</resources>
+
